@@ -128,7 +128,7 @@ Once the application is up and running, access it through your web browser using
 
 ## 📽️ Demo
 
-![BBC News Classification Demo](Screenshots/DemoV.webm)
+![BBC News Classification Demo](Screenshots/DemoV.mp4)
 
 _Demo of the BBC News Classification application in action._
 
